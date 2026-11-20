@@ -1,5 +1,5 @@
 # Ex.03 Design a Website for Server Side Processing
-## Date:
+## Date:12.11.2026
 
 ## AIM:
 To create a web page to calculate Churn Rate using server-side scripts.
@@ -45,10 +45,10 @@ Publish the website in Localhost.
 
 
 ## OUTPUT - SERVER SIDE:
-
+![alt text](<Screenshot (27).png>)
 
 ## OUTPUT - WEBPAGE:
-
+![alt text](<Screenshot (26).png>)
 
 ## RESULT:
 The the web page to calculate Churn Rate using server-side scripts is created successfully.
